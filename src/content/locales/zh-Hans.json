@@ -1,0 +1,64 @@
+{
+  "ui": {
+    "home": "首页",
+    "chooseLanguage": "选择语言",
+    "backToList": "全部指南",
+    "notFound": "未找到此指南。",
+    "askStaff": "如需帮助，请咨询工作人员。",
+    "eyebrow": "MAERYO 体验指南",
+    "headline": "从一口开始\n品味MAERYO时光",
+    "intro": "感受香气，探索风味，慢慢体验MAERYO。",
+    "explore": "探索体验",
+    "steps": "体验步骤",
+    "cautions": "开始之前",
+    "readGuide": "查看指南",
+    "footer": "慢慢品味，发现自己的喜好。"
+  },
+  "guides": {
+    "welcome": {
+      "title": "欢迎来到MAERYO",
+      "summary": "开始体验前，请先了解使用方法。",
+      "steps": [
+        {
+          "id": "start",
+          "title": "查看体验指南",
+          "body": "扫描体验桌上的二维码，即可查看相应指南。"
+        },
+        {
+          "id": "help",
+          "title": "跟随工作人员的指引",
+          "body": "体验过程中，请遵循现场工作人员的指引。"
+        }
+      ],
+      "cautions": [
+        "如有疑问，请咨询工作人员。"
+      ]
+    },
+    "tasting": {
+      "title": "MAERYO 品鉴指南",
+      "summary": "循序感受杯中的香气与风味。",
+      "steps": [
+        {
+          "id": "check",
+          "title": "确认品鉴酒款",
+          "body": "品鉴前，请向工作人员确认酒款及其原料。"
+        },
+        {
+          "id": "aroma",
+          "title": "慢慢感受香气",
+          "body": "将酒杯轻轻靠近，慢慢感受香气。"
+        },
+        {
+          "id": "taste",
+          "title": "小口品尝",
+          "body": "小口品尝，感受留在口中的余味。"
+        }
+      ],
+      "cautions": [
+        "如有过敏情况或对原料有疑问，请在品鉴前咨询工作人员。",
+        "请根据自身情况决定是否品鉴及品鉴量。",
+        "如计划驾驶，请勿饮酒品鉴。"
+      ]
+    }
+  }
+}
