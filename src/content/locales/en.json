@@ -1,0 +1,64 @@
+{
+  "ui": {
+    "home": "Home",
+    "chooseLanguage": "Language",
+    "backToList": "All guides",
+    "notFound": "This guide could not be found.",
+    "askStaff": "Please ask a staff member if you need help.",
+    "eyebrow": "MAERYO EXPERIENCE",
+    "headline": "Your MAERYO journey\nbegins with a sip",
+    "intro": "Take your time to explore the aromas and discover the flavors of MAERYO.",
+    "explore": "Explore the experience",
+    "steps": "Step by step",
+    "cautions": "Before you begin",
+    "readGuide": "Read guide",
+    "footer": "Take your time. Discover your taste."
+  },
+  "guides": {
+    "welcome": {
+      "title": "Welcome to MAERYO",
+      "summary": "A few things to know before your experience begins.",
+      "steps": [
+        {
+          "id": "start",
+          "title": "Find your guide",
+          "body": "Scan the QR code at your activity table to open the guide."
+        },
+        {
+          "id": "help",
+          "title": "Follow your host",
+          "body": "Please follow the instructions provided by our staff during the activity."
+        }
+      ],
+      "cautions": [
+        "Please ask a staff member if you have any questions."
+      ]
+    },
+    "tasting": {
+      "title": "MAERYO tasting guide",
+      "summary": "Explore the aromas and flavors in your glass, one step at a time.",
+      "steps": [
+        {
+          "id": "check",
+          "title": "Check your drink",
+          "body": "Ask our staff about the drink and its ingredients before tasting."
+        },
+        {
+          "id": "aroma",
+          "title": "Explore the aroma",
+          "body": "Bring the glass closer and take a moment to enjoy the aroma."
+        },
+        {
+          "id": "taste",
+          "title": "Take a small sip",
+          "body": "Taste a small sip and notice the flavors that linger."
+        }
+      ],
+      "cautions": [
+        "If you have allergies or questions about ingredients, check with our staff before tasting.",
+        "Choose whether and how much to taste based on your circumstances.",
+        "Please do not taste alcohol if you plan to drive."
+      ]
+    }
+  }
+}
